@@ -1,6 +1,6 @@
 {
   "name": "sparklesjs",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A vanilla canvas based lib for DOM sparkles ported from jQuery-canvas-sparkles",
   "main": "sparkles.js",
   "scripts": {

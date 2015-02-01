@@ -121,8 +121,8 @@
   };
 
   function _resize(instance, rebuild) {
-    instance.canvas.width = instance.element.offsetWidth * 1.2;
-    instance.canvas.height = instance.element.offsetHeight * 1.2;
+    instance.canvas.width = instance.element.offsetWidth;
+    instance.canvas.height = instance.element.offsetHeight;
 
     if (instance.appendable) {
       instance.canvas.style.top = instance.element.offsetTop - instance.options.overlap;
@@ -237,8 +237,8 @@
 
     canvas.classList.add('sparkles-canvas');
 
-    canvas.width = instance.element.offsetWidth * 1.2;
-    canvas.height = instance.element.offsetHeight * 1.2;
+    canvas.width = instance.element.offsetWidth;
+    canvas.height = instance.element.offsetHeight;
 
     canvas.style.position = 'absolute';
     canvas.style.top = overlap;
