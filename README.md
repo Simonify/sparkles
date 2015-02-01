@@ -5,7 +5,7 @@ A vanilla canvas based lib for DOM sparkles ported from [jQuery-canvas-sparkles]
 I've removed/added a few methods which I find making more sense to this lib.
 
 ## Install
-You can install via npm or via Bower, query-object is also provided as AMD if you use requireJS:
+You can install via npm or via Bower, sparkles is also provided as AMD if you use requireJS:
 
 ```javascript
 npm install sparklesjs
