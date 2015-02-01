@@ -1,0 +1,23 @@
+{
+  "name": "sparkles",
+  "main": "sparkles.js",
+  "version": "1.0.0",
+  "homepage": "https://github.com/fernandofleury/sparkles",
+  "authors": [
+    "Fernando Fleury <fernando_fleury@hotmail.com>"
+  ],
+  "description": "A vanilla canvas based lib for DOM sparkles ported from jQuery-canvas-sparkles",
+  "keywords": [
+    "sparkles",
+    "canvas",
+    "vanilla"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
