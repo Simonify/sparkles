@@ -8,8 +8,8 @@ I've removed/added a few methods which I find making more sense to this lib.
 You can install via npm or via Bower, query-object is also provided as AMD if you use requireJS:
 
 ```javascript
-npm install sparkles
-bower install sparkles
+npm install sparklesjs
+bower install sparklesjs
 ```
 
 ## Usage
