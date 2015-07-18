@@ -5,7 +5,7 @@
 
 (function(root, factory) {
   if (typeof define === 'function' && define.amd) {
-    define(['sparkles'], factory);
+    define('', [], factory);
     return;
   }
   if (typeof exports === 'object') {
